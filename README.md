@@ -107,3 +107,4 @@ By default, the bot sends the weekly report every Monday at `00:00 UTC`, then re
 
 Every event/party log has a `☐ Comped items` button. Only server admins can click it. When an admin clicks it, the log updates to `✅ Comped items`; clicking again unticks it.
 "# discord-tracker-entertainment" 
+"# discord-tracker-entertainment" 
